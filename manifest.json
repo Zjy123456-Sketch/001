@@ -1,0 +1,10 @@
+{
+  "display_name": "聊天记录瘦身",
+  "loading_order": 200,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "version": "1.1.0",
+  "auto_update": false
+}
